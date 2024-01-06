@@ -36,8 +36,8 @@
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanywyam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Velog's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanywyam&color=dark)](https://github.com/hanywyam/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanywyam&layout=compact?theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Velog's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanywyam&color=dark?theme=graywhite)](https://github.com/hanywyam/github-readme-stats)<br>
 </div>
 
 <!--
