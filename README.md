@@ -49,7 +49,6 @@ If you would like to know more about me, please refer to my portfolio, GitHub, o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanywyam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Velog's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanywyam&theme=transparent_icons=true)](https://github.com/hanywyam/github-readme-stats)<br>
 <br>
-[![main](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanywyam%2F&count_bg=%23FFE700&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![HOMEWORK](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=readme-ov-file&url=https%3A%2F%2Fgithub.com%2FHanywyam%2FHOMEWORK&count_bg=%2301DF74&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
 
