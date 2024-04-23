@@ -1,9 +1,12 @@
 <div align="center">
   
 ####  :wave: Hello. Welcome my github !
-I'm Je-young Han, a Front-end developer. <br>
+
+I'm Je-young Han, a front-end developer. <br>
 I have a perseverance that isn't afraid of new experiences and failures. <br>
 If you would like to know more about me, please refer to my portfolio, GitHub, or email.<br>
+
+
 
  ⚡ [Portfolio](https://hanywyam.github.io/portfolio_2024/)<br>
  🌱 [GitHub](https://github.com/Hanywyam/HOMEWORK?tab=readme-ov-file#readme)<br>
