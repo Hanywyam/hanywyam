@@ -16,6 +16,7 @@ If you would like to know more about me, please refer to my portfolio, GitHub, o
  <br/>
 
 [![HOMEWORK](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=readme-ov-file&url=https%3A%2F%2Fgithub.com%2FHanywyam%2FHOMEWORK&count_bg=%2301DF74&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  <br>  
   <br>
 ####  :clipboard: Once I've Used 
   
