@@ -3,9 +3,9 @@
 ####  :wave: Hello. Welcome my github !
 I'm Jeyoung Han, a Front-end developer. I have a perseverance that isn't afraid of new experiences and failures. If you want to know more about me, please refer to my portfolio, GitHub, or email.
 
-- ⚡ [Portfolio](https://hanywyam.github.io/portfolio_2024/)<br>
-- 🌱 [GitHub](https://github.com/Hanywyam/HOMEWORK?tab=readme-ov-file#readme)<br>
-- 📫 E-mail. hellow522@naver.com<br>
+ ⚡ [Portfolio](https://hanywyam.github.io/portfolio_2024/)<br>
+ 🌱 [GitHub](https://github.com/Hanywyam/HOMEWORK?tab=readme-ov-file#readme)<br>
+ 📫 E-mail. hellow522@naver.com<br>
  
  <br/>
  <br/>
