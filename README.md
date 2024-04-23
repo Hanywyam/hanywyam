@@ -5,7 +5,7 @@ I'm Jeyoung Han, a Front-end developer. I have a perseverance that isn't afraid
 
 - ⚡ [Portfolio](https://hanywyam.github.io/portfolio_2024/)<br>
 - 🌱 [GitHub](https://github.com/Hanywyam/HOMEWORK?tab=readme-ov-file#readme)<br>
-- 📫 [E-mail.](hellow522@naver.com) hellow522@naver.com<br>
+- 📫 E-mail. hellow522@naver.com<br>
  
  <br/>
  <br/>
